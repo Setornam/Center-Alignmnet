@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.outtermost-container{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+.outter-container{
+    width: 80%;
+    height: 80%;
+    background-color: #f3f3f3;
+    margin: auto;
+}
+
+.container{
+    height: 70%;
+    width: 70%;
+    background-color: #494949;
+    margin: auto;
+}
+
+.inner-container{
+    height: 50%;
+    width: 50%;
+    background-color: #000000;
+    margin: auto;
+}
+
+.inner-container img{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    
+    
+}
+
